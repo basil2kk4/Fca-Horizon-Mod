@@ -1,6 +1,6 @@
 ## Notification !
 
-Lưu Ý! Đây Là Sản Phẩm Được Horizon Remake Chính Bởi [Facebook-Chat-Api](https://github.com/Schmavery/facebook-chat-api)(Mod của: Fca-Xuyen-Get(bị xóa) bao gồm tác giả [UIRI](https://github.com/BadAimWeeb) từ trước và Tác giả chính: [Schmavery](https://github.com/Schmavery), Tác Giả Hiện Tại Không Chịu Trách Nghiệm Nào ! ), Nếu Có Lỗi Hãy Thử Sử Dụng Sang Sản Phẩm Khác !
+Lưu Ý! Đây Là Sản Phẩm Được HuyKaiser Remake Chính Bởi [Facebook-Chat-Api](https://github.com/Schmavery/facebook-chat-api)(Mod của: Fca-Xuyen-Get(bị xóa) bao gồm tác giả [UIRI](https://github.com/BadAimWeeb) từ trước và Tác giả chính: [Schmavery](https://github.com/Schmavery), Tác Giả Hiện Tại Không Chịu Trách Nghiệm Nào ! ), Nếu Có Lỗi Hãy Thử Sử Dụng Sang Sản Phẩm Khác !
 
 ## Support For : 
 
@@ -19,11 +19,11 @@ Lưu Ý ! Nếu Bạn Muốn Sài Api Này Hãy Xem Document Tại [Đây Nè](h
 
 Nếu Bạn Muốn Sử Dụng, Hãy Tải Nó Bằng Cách:
 ```bash
-npm i Fca-Horizon-Mod
+npm i fca-huykaiser-remake
 ```
 or
 ```bash
-npm install Fca-Horizon-Mod
+npm install fca-huykaiser-remake
 ```
 
 Nó Sẽ Tải Vô node_modules (Lib Của Bạn) - Lưu Ý Replit Sẽ Không Hiện Đâu Mà Tìm 😪
@@ -32,11 +32,11 @@ Nó Sẽ Tải Vô node_modules (Lib Của Bạn) - Lưu Ý Replit Sẽ Không H
 
 Nếu Bạn Muốn Sử Dụng Phiên Bản Mới Nhất Hay Cập Nhật Thì Hãy Vô Terminal Hoặc Command Promt Nhập :
 ```bash
-npm install Fca-Horizon-Mod@latest
+npm install fca-huykaiser-remake@latest
 ```
 Hoặc
 ```bash
-npm i Fca-Horizon-Mod@latest
+npm i fca-huykaiser-remake@latest
 ```
 
 ## Nếu Bạn Muốn Test Api 
@@ -47,7 +47,7 @@ Hãy Sử Dụng Với Tài Khoản Thử Nghiệm => [Facebook Whitehat Account
 ## Cách Sử Dụng
 
 ```javascript
-const login = require("Fca-Horizon-Mod"); // lấy từ lib ra 
+const login = require("fca-huykaiser-remake"); // lấy từ lib ra 
 
 // đăng nhập
 login({email: "Gmail Account", password: "Mật Khẩu Facebook Của Bạn"}, (err, api) => {
@@ -87,7 +87,7 @@ Bạn Cần Vô File Mirai.js,Sau Đó Tìm Đến Dòng
 Và Thay Nó Bằng:
 
 ```js
-    var login = require('Fca-Horizon-Mod')
+    var login = require('fca-huykaiser-remake')
 ```
 
 Sau Đó Thì Chạy Bình Thường Thôi  !
@@ -108,7 +108,7 @@ __Hướng Dẫn Với Appstate__
 
 ```js
 const fs = require("fs");
-const login = require("Fca-Horizon-Mod");
+const login = require("fca-huykaiser-remake");
 
 var credentials = {email: "FB_EMAIL", password: "FB_PASSWORD"}; // thông tin tk
 
